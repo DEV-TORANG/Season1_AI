@@ -1,0 +1,3 @@
+powerOn
+d:10
+u:1,My Fan
